@@ -1,0 +1,15 @@
+{
+  "name": "sfc-sfs",
+  "version": "0.0.1",
+  "dependencies": {
+    "cheerio": "*",
+    "iconv": "*",
+    "jQuery": "*",
+    "jsdom": "*",
+    "ld": "*",
+    "coffee-script": "*",
+    "querystring": "*",
+    "request": "*",
+    "underscore": "*"
+  }
+}
